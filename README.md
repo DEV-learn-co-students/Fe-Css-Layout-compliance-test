@@ -23,3 +23,4 @@ These videos are also available as a single [continuous playlist from the link h
 [Positioning - Code Example](http://jsfiddle.net/flatiron_school/rgyPC/1/)
 
 [z-index - Code Example](http://jsfiddle.net/flatiron_school/nWGts/)
+<a href='https://learn.co/lessons/fe-css-layout' data-visibility='hidden'>View this lesson on Learn.co</a>
