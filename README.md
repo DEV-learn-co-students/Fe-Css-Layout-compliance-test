@@ -6,6 +6,8 @@ These videos are also available as a single [continuous playlist from the link h
 
 <iframe width="100%" height="480" src="//www.youtube.com/embed/tBSxuNfgRHc?list=PLj148bJp5wixpaK_XI-LXIPF6BxQ5Ycyx" frameborder="0" allowfullscreen></iframe>
 
+## Resources
+
 [Slides](https://docs.google.com/presentation/d/1UTUWDczUiDZ6byuhyHv0L3zJXQjdlnZheZXhRVLOL3Q/edit?usp=sharing)
 
 [Box Model - Code Example](http://jsfiddle.net/flatiron_school/jtFgz/)
